@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="auto-sign-in">
+    <output-path>$PROJECT_DIR$/out/artifacts/auto_sign_in</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.AutoSignInApplication" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="auto_sign_in.jar">
+        <element id="module-output" name="auto-sign-in" />
+      </element>
+    </root>
+  </artifact>
+</component>
